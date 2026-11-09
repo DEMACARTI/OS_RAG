@@ -1,1 +1,11 @@
 .aider*
+
+# Local tool configs that may contain API keys — never commit
+.openclaude-profile.json
+.env
+.env.*
+
+# Python environments / OS files
+venv/
+.venv/
+.DS_Store
