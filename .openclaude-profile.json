@@ -1,8 +1,0 @@
-{
-  "profile": "gemini",
-  "env": {
-    "GEMINI_MODEL": "gemma-4-31b-it",
-    "GEMINI_API_KEY": "AIzaSyAVsoXwUj-V50HoGAKIVB7j7cGbxvuA_F4"
-  },
-  "createdAt": "2026-04-05T03:12:53.182Z"
-}

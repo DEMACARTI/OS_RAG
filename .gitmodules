@@ -1,0 +1,3 @@
+[submodule "DEMASCAS"]
+	path = DEMASCAS
+	url = https://github.com/DEMACARTI/DEMASCAS.git
